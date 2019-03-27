@@ -1,0 +1,5 @@
+c:\users\mamorales\documents\visual studio 2013\Projects\ClientREST\ClientREST\bin\Debug\ClientREST.exe.config
+c:\users\mamorales\documents\visual studio 2013\Projects\ClientREST\ClientREST\bin\Debug\ClientREST.exe
+c:\users\mamorales\documents\visual studio 2013\Projects\ClientREST\ClientREST\bin\Debug\ClientREST.pdb
+c:\users\mamorales\documents\visual studio 2013\Projects\ClientREST\ClientREST\obj\Debug\ClientREST.exe
+c:\users\mamorales\documents\visual studio 2013\Projects\ClientREST\ClientREST\obj\Debug\ClientREST.pdb
